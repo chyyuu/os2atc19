@@ -16,7 +16,7 @@
   - hybridOS 魏永明
   - 专用领域全系统合作与开发  邹鹏程（中科创达）暂定
   - 支持多窗口扩展的android开源系统 ... 清华
-
+  - 软件定义/群体智能系统 ...暂定
 - 操作系统内核
    - go hypervisor ...(蚂蚁金服)  暂定
    - RT container 韩辉（翼辉科技）
@@ -27,10 +27,10 @@
    - RUST语言与系统  暂定
    - GO语言与系统  暂定
  
- - 软件定义/群体智能系统
+
  - CPU/NPU设计
-  - 面向AI领域专用芯片架构设计 詹荣开（...）
+   - 面向AI领域专用芯片架构设计 詹荣开（...）
  
  - 虚拟机系统（hypervisor/VMM）
-  -   ACRN hypervisor  董耀祖（intel）暂定
+   - ACRN hypervisor  董耀祖（intel）暂定
 
