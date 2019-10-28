@@ -39,20 +39,41 @@
    - go hypervisor ...(蚂蚁金服)  暂定
    - RT container 韩辉（翼辉科技）
    - 阿里OS kernel （阿里集团）暂定
+   - ARM MBED 暂定
+   - SEL4 暂定
 
 - 全栈及应用生态
    - 图形栈、交互技术及应用生态的发展现状及趋势 魏永明
    - 专用领域全系统合作与开发  邹鹏程（中科创达）暂定
    - 支持多窗口扩展的android开源系统 ... 清华
    - 软件定义/群体智能系统 ...暂定
+   - ARM OpenSource 暂定
+
 
 - 编程语言及编译器
-   - 方舟编译器分析  暂定
+   - 编程语言设计  暂定 Gilad
+   - VM 设计  暂定 Kasper
+   - 静态编译器和静态分析  暂定 Shinming
+   - OpenJDK 暂定 阿里/谷歌/Twitter
+   - 方舟编译器分析  暂定 汤维
    - RUST语言与系统  暂定
-   - GO语言与系统  暂定
+   - GO语言与系统  暂定 Robert Greisser
 
 - 架构及芯片技术
    - 面向AI领域专用芯片架构设计 詹荣开（...）
+   - ARM PSA 和 展锐
+   - RISC V 产品化 平头哥
+   
+- 安全体系
+   - 面向AI领域专用芯片架构设计 詹荣开（...）
+   - ARM PSA 和 展锐 暂定
+   - RISCV TEE/SE 暂定
+   - 汇顶 安全 暂定
+   - Security focus: Shape security 
+   
+- 数据库
+   - Kylingence OLAP 暂定
+   - TiDB 和 RUST 暂定
 
 - 虚拟化技术
    - ACRN hypervisor  董耀祖（intel）暂定
