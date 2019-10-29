@@ -67,14 +67,12 @@
    - Blockchain chipset, Accelor, GJ 
 
 - 安全体系
-   - ARM PSA 和 展锐 暂定
-   - RISCV TEE/SE 魔联 林瑶
-   - 汇顶 安全 暂定
-   - Security focus: Shape security 
-   - blockchain peckshield
-   
+   - ARM PSA 和 展锐, 王俊超(ARM 安全产品市场总监)等 
+   - RISCV TEE/SE 魔联CEO 林瑶
+   - 指纹安全芯片的策略 汇顶（安全总监） 张晨
+   - blockchain peckshield （CEO）蒋旭宪   
 - 数据库
-   - Kylingence OLAP 暂定
+   - Kylingence OLAP, Kylin, 倪春恩
    - TiDB 和 RUST 暂定
 
 - 虚拟化技术
