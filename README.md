@@ -40,7 +40,7 @@
    - RT container 韩辉（翼辉科技）
    - 阿里OS kernel （阿里集团）暂定
    - ARM MBED 暂定
-   - SEL4 暂定
+   - SEL4 暂定 Gernor Heisser
 
 - 全栈及应用生态
    - 图形栈、交互技术及应用生态的发展现状及趋势 魏永明
@@ -48,28 +48,27 @@
    - 支持多窗口扩展的android开源系统 ... 清华
    - 软件定义/群体智能系统 ...暂定
    - ARM OpenSource 暂定
-   - 核心基础库的机遇 暂定
+   - 操作系统的开源软件供应链思考 中科软件所 武延军
 
 
 - 编程语言及编译器
-   - 编程语言设计  暂定 Gilad
-   - VM 设计  暂定 Kasper
-   - Open64静态编译器和静态分析  暂定 陈文光/Shinming
-   - OpenJDK/Graalvm 暂定 阿里/谷歌/Twitter/oracle
-   - 方舟编译器分析  暂定 汤维/oracle 
+   - 编程语言设计 Shape Security, Gilad Bracha
+   - VM 设计  Toitware, Kasper Lund
+   - Open64静态编译器和静态分析 清华/鉴悉 陈文光/Shinming
+   - OpenJDK/Graalvm 阿里 （三红）/谷歌（Ian Roger)/Twitter (Christian T)/oracle (邓雨迪）
+   - 方舟编译器分析  华为 汤维/oracle 
    - RUST语言与系统  暂定 陈渝学生
-   - GO语言与系统  暂定 Robert Greisser
+   - GO语言与系统  Google Robert Greisser
 
 - 架构及芯片技术
    - 面向AI领域专用芯片架构设计 詹荣开（...）
-   - ARM PSA 和 展锐
+   - ARM PSA 和 展锐 
    - RISC V 产品化 平头哥
-   - Blockchain chipset accelor
+   - Blockchain chipset, Accelor, GJ 
 
 - 安全体系
-   - 面向AI领域专用芯片架构设计 詹荣开（...）
    - ARM PSA 和 展锐 暂定
-   - RISCV TEE/SE 暂定
+   - RISCV TEE/SE 魔联 林瑶
    - 汇顶 安全 暂定
    - Security focus: Shape security 
    - blockchain peckshield
