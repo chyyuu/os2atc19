@@ -48,28 +48,31 @@
    - 支持多窗口扩展的android开源系统 ... 清华
    - 软件定义/群体智能系统 ...暂定
    - ARM OpenSource 暂定
+   - 核心基础库的机遇 暂定
 
 
 - 编程语言及编译器
    - 编程语言设计  暂定 Gilad
    - VM 设计  暂定 Kasper
-   - 静态编译器和静态分析  暂定 Shinming
-   - OpenJDK 暂定 阿里/谷歌/Twitter
-   - 方舟编译器分析  暂定 汤维
-   - RUST语言与系统  暂定
+   - Open64静态编译器和静态分析  暂定 陈文光/Shinming
+   - OpenJDK/Graalvm 暂定 阿里/谷歌/Twitter/oracle
+   - 方舟编译器分析  暂定 汤维/oracle 
+   - RUST语言与系统  暂定 陈渝学生
    - GO语言与系统  暂定 Robert Greisser
 
 - 架构及芯片技术
    - 面向AI领域专用芯片架构设计 詹荣开（...）
    - ARM PSA 和 展锐
    - RISC V 产品化 平头哥
-   
+   - Blockchain chipset accelor
+
 - 安全体系
    - 面向AI领域专用芯片架构设计 詹荣开（...）
    - ARM PSA 和 展锐 暂定
    - RISCV TEE/SE 暂定
    - 汇顶 安全 暂定
    - Security focus: Shape security 
+   - blockchain peckshield
    
 - 数据库
    - Kylingence OLAP 暂定
@@ -77,6 +80,7 @@
 
 - 虚拟化技术
    - ACRN hypervisor  董耀祖（intel）暂定
+   - cloud FPGA performance improvement 深维科技 
 
 ### 招待晚宴
 
