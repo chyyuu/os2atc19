@@ -17,7 +17,7 @@
 1. 群体智能操作系统 戴华东（军科创新院）
 1. CPU技术与产业分析 包云岗（中科院计算所） 暂定
 1. 当前操作系统产业技术现状和机遇（OS类）吴庆波（鹏程实验室）陈渝（清华大学）
-1. 编译器等开发环境的技术产业发展 梁宇宁（xcalibyte）...
+1. 编程语言和编译器等开发环境的技术产业发展 Sun Chan(Xcalibyte)/ Gilad Bracha (Shape Security)...
 1. 金融级操作系统研发及开源协作 （阿里）
 
 ### 开源协作圆桌会议 （魏永明、邹鹏程）
@@ -75,6 +75,7 @@
 - 数据库
    - Kylingence OLAP, Kylin, 倪春恩
    - TiDB 和 RUST, PingCap, 旭东
+   - SQLite, 暂定
 
 - 虚拟化技术
    - ACRN hypervisor  董耀祖（intel）暂定
