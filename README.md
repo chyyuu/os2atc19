@@ -53,7 +53,7 @@
 
 
 - 编程语言及编译器
-   - 编程语言设计 Shape Security, Gilad Bracha
+   - 编程语言设计实践 Shape Security, Gilad Bracha
    - VM 设计  Toitware, Kasper Lund
    - Open64静态编译器和静态分析 清华/鉴释 陈文光/Shinming Liu
    - OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰  
