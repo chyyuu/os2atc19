@@ -56,10 +56,9 @@
    - 编程语言设计 Shape Security, Gilad Bracha
    - VM 设计  Toitware, Kasper Lund
    - Open64静态编译器和静态分析 清华/鉴释 陈文光/Shinming Liu
-   - OpenJDK/Graalvm 阿里 （三红）/谷歌（Ian Roger)/Twitter (Christian T)/Oracle (邓雨迪）
-   - AOT和方舟编译器  华为 汤维 / Tencent 杨晓峰  
+   - OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰  
    - RUST语言与系统  暂定 陈渝学生
-   - GO语言与系统  Google Robert Greissmer
+   - GO语言 AOT 编译器 Google Robert Greissmer
 
 - 架构及芯片技术
    - 面向AI领域专用芯片架构设计 詹荣开（...）
@@ -75,7 +74,6 @@
 - 数据库
    - Kylingence OLAP, Kylin, 倪春恩
    - TiDB 和 RUST, PingCap, 旭东
-   - SQLite, 暂定
 
 - 虚拟化技术
    - ACRN hypervisor  董耀祖（intel）暂定
@@ -101,6 +99,7 @@ Pingcap
 网易有道
 网易研究院
 翼辉
+魔联
 
 
 
