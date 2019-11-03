@@ -17,10 +17,11 @@
 1. 软件定义卫星 赵军锁（中科院软件所）
 1. 群体智能操作系统 戴华东（军科创新院）
 1. CPU技术与产业分析 包云岗（中科院计算所） 暂定
-1. 金融级操作系统研发及开源协作 （阿里）
+1. 金融级操作系统研发及开源协作 承钢（阿里）
 1. 编程语言和编译器等开发环境的技术产业发展 Sun Chan(Xcalibyte)/ Gilad Bracha (Shape Security)...
+1. Business Intelligence OS 潘爱民 （指令集）
 
-### 开源协作圆桌会议 （魏永明、邹鹏程）
+### 开源协作圆桌会议 （魏永明、邹鹏程等）
 
 中午：13:00 \~ 14:00（建议在主题报告及研讨会之间）
 
@@ -60,23 +61,18 @@
    - RUST语言与系统  暂定 陈渝学生
    - GO语言 AOT 编译器 Google Robert Greissmer
 
-- 架构及芯片技术
+- 架构及芯片技术，安全体系
    - 面向AI领域专用芯片架构设计 詹荣开（...）
    - RISC V 产品化 平头哥
-   - Blockchain chipset, Accelor, GJ 
-
-- 安全体系
    - ARM PSA 和 展锐, 王俊超(ARM 安全产品市场总监)等 
-   - RISCV TEE/SE 魔联CEO 林瑶
-   - 指纹安全芯片的策略 汇顶（安全总监） 张晨
-   - blockchain theory and application 上海交大 刘振  
+   - RISCV KEYSTONE TEE/SE 魔联CEO 林瑶
+   - blockchain theory and application 上海交大 刘振
+   - IoT security endpoint, Numen Inc, Ali Islam Khan (ex-FireEye Director)
    
-- 数据库
+- 数据库，虚拟化技术
    - Kylingence OLAP, Kylin, 倪春恩
    - TiDB 和 RUST, PingCap, 旭东
-
-- 虚拟化技术
-   - ACRN hypervisor  董耀祖（intel）暂定
+   - ACRN hypervisor  董耀祖（Intel）暂定
    - cloud FPGA performance improvement 深维科技 樊平
 
 ### 招待晚宴
@@ -84,6 +80,30 @@
 晚上：18:00 \~ 20:00
 
 参与人员：主题报告演讲人、嘉宾及大会组织方，预计40人
+
+邀请嘉宾：
+- 网易有道CEO，硬件总监
+- 网易研究院院长，有关研发总监
+- 小米集团技术委员会主席，有关产品线软件总监
+- 平头哥软件总监，工具链总监
+- 华为终端软件部总裁，有关研发总监
+- OPPO/VIVO 软件部总监，有关研发/安全
+- 全志软件部总监
+- 瑞芯微软件部总监
+- 腾讯OS总监，有关产品总监
+- 阿里IoT CTO/OS/产品总监
+- 中兴OS总监，工具链总监
+- 蚂蚁金服安全副总裁，有关研发总监
+- 鹿客CTO
+- 优点CEO，有关研发总监
+- 格力CTO
+- 美的研究院长
+- 梆梆CTO
+- 无线黑客独角兽 CEO
+- 腾讯安全实验室副总监
+- 海康安全总监
+- 
+
 
 赞助方
 阿里
