@@ -58,10 +58,9 @@
    - (wym)Business Intelligence OS 潘爱民 （指令集）
    - (wym)支持多窗口扩展的android开源系统 ... 清华
    - (wym)小程序/快应用（小米 or 腾讯？）
-   - (cy 待定 11月8日前)软件定义/群体智能系统
    - (cy) 面向自动驾驶领域的Celadon开源交互系统 冯晓焰 intel
    - (lyl)操作系统的开源软件供应链思考 中科软件所 武延军
-   - ~~ARM OpenSource 姬信伟 （NO）~~
+   - (取消??)~~ARM OpenSource 姬信伟 （NO）~~
 
 - 编程语言及编译器（主持人：梁宇宁）
    - (lyl)编程语言设计实践 Shape Security, Gilad Bracha
