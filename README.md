@@ -126,6 +126,13 @@
 - 飞漫
 - 鉴释
 
+### 往届网站
+
+- [OS2ATC 2018](http://soft.cs.tsinghua.edu.cn/os2atc2018/index.html)
+- [OS2ATC 2017](http://soft.cs.tsinghua.edu.cn/os2atc2017/index.html)
+- [OS2ATC 2016](http://soft.cs.tsinghua.edu.cn/os2atc2016/index.html)
+- [OS2ATC 2015](http://soft.cs.tsinghua.edu.cn/os2atc2015/index.html)
+- [OS2ATC 2014](http://soft.cs.tsinghua.edu.cn/os2atc2014/index.html)
 
 
 
