@@ -59,7 +59,7 @@
    - VM 设计  Toitware, Kasper Lund
    - Open64静态编译器和静态分析 清华/鉴释 陈文光/Shinming Liu
    - OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰  
-   - RUST语言与系统  暂定 陈渝学生
+   - RUST语言与系统  暂定 陈渝学生(NO)
    - GO语言 AOT 编译器 Google Robert Greissmer
 
 - 架构及芯片技术，安全体系
