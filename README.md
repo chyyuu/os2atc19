@@ -47,10 +47,6 @@
    - (cy)阿里OS kernel （阿里集团）
    - (cy 待定 11月8日前)kernel topic 陈海波 华为/交大  
    - (cy 待定 11月8日前)形式化kernel 中兴
-   - （取消??）ARM MBED 暂定
-   - （取消??）SEL4 暂定 Gernor Heisser
-   - （取消??）QNX 黑莓 暂定
-   - （取消??）IoT security endpoint, Numen Inc, Ali Islam Khan (ex-FireEye Director)
 
 - 全栈及应用生态（主持人：魏永明）
    - (wym) 图形栈、交互技术及应用生态的发展现状及趋势 魏永明
@@ -60,28 +56,22 @@
    - (wym)小程序/快应用（小米 or 腾讯？）
    - (cy) 面向自动驾驶领域的Celadon开源交互系统 冯晓焰 intel
    - (lyl)操作系统的开源软件供应链思考 中科软件所 武延军
-   - (取消??)~~ARM OpenSource 姬信伟 （NO）~~
 
 - 编程语言及编译器（主持人：梁宇宁）
    - (lyl)编程语言设计实践 Shape Security, Gilad Bracha
    - (lyl)VM 设计  Toitware, Kasper Lund
-   - (lyl)Open64静态编译器和静态分析 清华/鉴释 陈文光/Shinming Liu
+   - (lyl)Open64静态编译器和静态分析 鉴释 Shinming Liu
    - (lyl)OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰  
-   - (lyl 待定 11月8日前)RUST语言实践, PingCap, 旭东
-   - (lyl)GO语言 AOT 编译器 Google Robert Greissmer
 
 - 架构及芯片技术（主持人：待定）
    - (cy)面向AI领域专用芯片架构设计 詹荣开（...）
    - (wqb 待定 11月8日前)RISC V 产品化 平头哥
    - (lyl 待定 11月8日前)ARM PSA 和 展锐, 王俊超(ARM 安全产品市场总监)等 
    - (lyl) RISCV KEYSTONE TEE/SE 魔联CEO 林瑶
-   - （取消??）~~blockchain theory and application 上海交大 刘振~~
-   - (lyl)cloud FPGA performance improvement 深维科技 樊平
+   - (lyl) cloud FPGA performance improvement 深维科技 樊平
    
 - 虚拟化技术（主持人：董耀祖）
    - (cy) ACRN hypervisor  董耀祖（Intel）暂定
-   - （取消??）Kylingence OLAP, Kylin, 倪春恩
-   - （取消??）~~TiDB 和 RUST, PingCap, 旭东~~
 
 ### 招待晚宴
 
@@ -111,7 +101,6 @@
 - 无线黑客独角兽 CEO
 - 腾讯安全实验室副总监
 - 海康安全总监
-- 
 
 ### 赞助商
 
@@ -122,13 +111,11 @@
 - 全志
 - 平头哥
 - Kylingence
-- Pingcap
 - 小米
 - 中科软件所
 - 网易有道
 - 网易研究院
 - 浙江大学安全学院
-- 翼辉
 - 魔联
 - 飞漫
 - 鉴释
