@@ -61,12 +61,13 @@
    - (lyl)编程语言设计实践 Shape Security, Gilad Bracha
    - (lyl)VM 设计  Toitware, Kasper Lund
    - (lyl)Open64静态编译器和静态分析 鉴释 Shinming Liu
-   - (lyl)OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰  
+   - (lyl)OpenJDK/Graalvm 阿里 （三红）/ Tencent 杨晓峰
+   - (lyl)从模型到可执行程序的形式化验证：可信编译器l2c, 迪捷软件，康烁
 
 - 架构及芯片技术（主持人：待定）
    - (cy)面向AI领域专用芯片架构设计 詹荣开（...）
-   - (wqb 待定 11月8日前)RISC V 产品化 平头哥
-   - (lyl 待定 11月8日前)ARM PSA 和 展锐, 王俊超(ARM 安全产品市场总监)等 
+   - (wqb 待定 11月8日前) RISC V 产品化 平头哥 
+   - (lyl) ARM PSA, ARM 安全产品市场总监, 王俊超 
    - (lyl) RISCV KEYSTONE TEE/SE 魔联CEO 林瑶
    - (lyl) cloud FPGA performance improvement 深维科技 樊平
    
